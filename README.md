@@ -1,3 +1,3 @@
-# Flow Chart for Resident User
-The flowchart diagram below shows the overview functionalities of the system in terms of resident user. After creating an account and receiving approval from the barangay administrator, the resident can then log in. The user can now request papers, read announcements, view officials, view barangay information, send an inquiry and report a blotter after logging in.
-![image](https://github.com/Christopherdereal/TEST-DONE/assets/93916806/ed72bb88-a963-472c-8b76-21412400d069)
+# The Flow Chart for Admin User
+the flowchart diagram that presents the overview functionalities of the system in terms of barangay admin. The administrator would have a dashboard with statistics and other capabilities including managing users, barangay inhabitants, barangay officials, requested papers, blotter reports, and reply on Inquiries. The administrator can also backup all of the system's data and make an announcement.
+![image](https://github.com/Christopherdereal/TEST-DONE/assets/93916806/69b00ab2-7113-4771-8470-ae67b2f57f52)
